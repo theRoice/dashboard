@@ -1,9 +1,9 @@
-# WebDevStarter
-Boilerplate for static websites
+# Dashboard
+A dashboard that displays a information from a number of public APIs.
 ---
 
 ## What is this?
-- Starting point for static websites
+- This is one of the projects for CSCD378
 
 ## How do I use this?
-- Clone the repo!
+- Deploy the website! I'll be using something like vercel or netlify.
